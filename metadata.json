@@ -1,0 +1,6 @@
+{
+  "name": "Echoes of the Forgotten",
+  "description": "An open-source AI ghost story experience powered by local open-weight language models for the Hacktoberfest Ghost in the Machine challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
